@@ -1,0 +1,173 @@
+Summary of PKU solved, since 05-20-2010
+
+------------------------Fighting-----------------------------
+------------------------Fighting-----------------------------
+
+[sort]
+1002 487-3279
+1007 DNA Sorting
+1089 Intervals
+1035 Spell checker
+1468 Rectangles
+1828 Monkeys' Pride [interesting]
+2299 Ultra-QuickSort
+2388 Who's in the Middle
+2403 Hay Points
+2408 Anagram Groups [good]
+2418 Hardwood Species [wonderful, qsort or bst(binary search tree)]
+
+[search(dfs, bfs, backtracking)]
+1010 STAMPS [good]
+1011 Sticks [classic]
+1020 Anniversary Cake [good]
+1077 Eight [classic][bfs, bbfs, A*]
+1101 The Game
+1111 Image Perimeters [interesting]
+1129 Channel Allocation [classic]
+1154 Letters
+1164 The Castle
+1166 The Clocks
+1167 The Buses [hard]
+1190 Birthday Cake [good]
+1198 Solitaire [classic]
+1321 Chessboard Problem
+1324 Holedox Moving [good]
+1416 Shredding Company
+1426 Find The Multiple
+1475 Pushing Boxes [complex]
+1562 Oil Deposits
+1606 Jugs
+1629 Fillword
+1664 Placing Apples
+1691 Painting A Board
+1724 ROADS
+1753 Flip Game
+1775 Sum of Factorials
+1915 Knight Moves
+1950 Dessert
+2248 Addition Chains
+2251 Dungeon Master
+2312 Battle City [excellent]
+2488 A Knight's Journey
+2531 Network Saboteur
+2676 Sudoku
+3009 Curling 2.0
+3051 Satellite Photographs
+3083 Children of the Candy Corn
+3087 Shuffle'm Up
+3126 Prime Path
+3256 Cow Picnic
+3278 Catch That Cow
+3373 Changing Digits [hard]
+3400 Dropping the stones
+3411 Paid Roads
+3414 Pots
+
+[dynamic programming/memory function]
+1014 Dividing [good & hard]
+1015 Jury Compromise
+1050 To the Max [classic]
+1080 Human Gene Functions
+1088 Skiing [good]
+1157 Little shop of flowers
+1159 Palindrome
+1160 Post Office [good]
+1163 The Triangle
+1179 Polygon [classic]
+1185 Artillery position [classic, scdp]
+1260 Pearls [good]
+1276 Cash Machine [classic]
+1456 Supermarket
+1458 Common Subsequence [classic]
+1579 Function Run Fun
+1631 Bridging signals
+1887 Testing the CATCHER/2533 Longest Ordered Subsequence [classic]
+1953 World Cup Noise
+2192 Zipper
+2250 Compromise
+2479 Maximum sum/2593 Max Sequence
+3356 AGTC
+3624 Charm Bracelet
+3670 Eating Together [good]
+
+[greedy algorithm]
+
+[data structure]
+1028 Web Navigation (stack/array)
+1611 The Suspects (union-find set)
+1988 Cube Stacking (union-find set)
+2524 Ubiquitous Religions (union-find set)
+2777 Count Color (segment tree) [good]
+3253 Fence Repair (huffman tree) [good]
+3349 Snowflake Snow Snowflakes (Hash & Minimal Representation)
+
+[graph algorithm]
+1125 Stockbroker Grapevine (Floyd-Warshall)
+1128 Frame Stacking (topological sort) [good]
+1158 Traffic Lights (Dijkstra) [good]
+1201 Intervals (difference constraints)
+1251 Jungle Roads (MST-PRIM)
+1258 Agri-Net (MST-Prim)
+1273 Drainage Ditches (Maximum flow) [classic]
+1511 Invitation Cards (SPFA)
+1861 Network (MST-Kruskal)
+2060 Taxi Cab Scheme (Minimum path cover -> Maximum matching)
+2263 Heavy Cargo (dp, Dijkstra)
+2394 Checking an Alibi (Dijkstra)
+2421 Constructing Roads (MST-Kruskal)
+2485 Highways (MST-Kruskal)
+2536 Gopher II (Maximum matching) [classic]
+3259 Wormholes (Bellman-Ford)
+3463 Sightseeing (dp, Dijkstra) [good]
+3687 Labeling Balls (topological sort) [hard]
+
+[others]
+1001 Exponentiation (high precision)
+1008 Maya Calendar
+1016 Numbers That Count (simulation)
+1054 The Troublesome Frog (enumerate&bsearch) [good]
+1083 Moving Tables (novel perspective) [good]
+1102 LC-Display (wonderful)
+1147 Binary codes [excellent]
+1176 Party Lamps (enumerate)
+1226 Substrings
+1270 Following Orders (topological sort)
+1451 T9 (Trie-Tree/Dictionary-Tree) [wonderful]
+1657 Distance on Chessboard 
+1731 Orders (permutation) [good]
+1961 Period (KMP)
+2080 Calendar
+2244 Eeny Meeny Moo (Josephus Problem) [good]
+2503 Babelfish (string hash)
+2663 Tri Tiling (recurrence) [good]
+3090 Visible Lattice Points [good]
+3461 Oulipo (KMP) [classic]
+3508 Hide That Number (simple math)
+
+[easy/water]
+1000 A+B Problem
+1003 Hangover
+1004 Financial Management
+1005 I Think I Need a Houseboat
+1142 Smith Numbers
+1218 The Drunk Jailer
+1298 The Hardest Problem Ever
+1316 Self Numbers
+1477 Box of Bricks
+1543 Perfect Cubes (build table)
+1547 Clay Bully
+1552 Doubles
+1565 Skew Binary
+1573 Robot Motion
+1595 Prime Cuts
+1663 Number Steps
+1936 All in All [good]
+2005 Blackjack
+2081 Recaman's Sequence
+2105 IP Address
+2681 Anagrammatic Distance
+2726 Holiday Hotel [funny]
+3094 Quicksum
+3095 Linear Pachinko
+3427 Ecology tax
+3561 Pseudographical recognizer
