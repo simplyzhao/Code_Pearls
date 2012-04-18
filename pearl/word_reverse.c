@@ -4,8 +4,8 @@
 
 /*
  * Example:
- * Input: hi I am Zhao Li
- * Output: Li Zhao am I hi
+ * Input: hi I am Alex.Zhao
+ * Output: Alex.Zhao am I hi
  */
 
 void
@@ -32,15 +32,15 @@ void
 word_reverse_better(char *input)
 {
 	/* Example:
-	 * first reverse the all input, we get: iL oahZ ma I ih
-	 * second reverse each word, we get: Li Zhao am I hi
+	 * first reverse the all input
+	 * second reverse each word
 	 */
 }
 
 int
 main(int argc, char **argv)
 {
-	char input[] = "hi I am Zhao Li";
+	char input[] = "hi I am Alex.Zhao";
 	char output[100];
 	word_reverse(input, output);
 	printf("%s\n", output);
